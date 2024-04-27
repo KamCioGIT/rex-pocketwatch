@@ -3,7 +3,7 @@
 - youtube : https://www.youtube.com/@rexshack/videos
 - tebex : https://rexshackgaming.tebex.io/
 
-# rex-trapfishing
+# rex-pocketwatch
 - For RSG RedM Framework : https://discord.gg/eW3ADkf4Af
 
 # Dependancies
@@ -16,4 +16,4 @@
 - add images to your "\rsg-inventory\html\images"
 
 # Starting the resource:
-- add the following to your server.cfg file : ensure rex-trapfishing
+- add the following to your server.cfg file : ensure rex-pocketwatch
